@@ -76,7 +76,7 @@ I've provided some examples below of how this is actually called within the impl
 
 ![image](https://github.com/suri0x/TDBS-Dumper/assets/95584654/8da7f1bd-d0e9-4878-90d6-4d71cd7fe644)
 
+![image](https://github.com/suri0x/TDBS-Dumper/assets/95584654/b5fa7e7e-db40-4065-9b0b-cf7fe1a2f1c6)
 
-![image](https://github.com/suri0x/Icarus/assets/95584654/b14ebc7e-710d-49e9-993a-b4222670a2fc)
 
 
