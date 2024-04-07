@@ -1,6 +1,7 @@
 ## TDBS Dumper - TriangleDB iOS Spyware String Dumper
 TDBS Dumper is a simple python script which can identify, dump, and decrypt protected strings from the TriangleDB iOS spyware implant. 
 A special thanks to the Kaspersky team for their analysis series:  https://securelist.com/trng-2023/
+Sample: https://bazaar.abuse.ch/sample/fd9e97cfb55f9cfb5d3e1388f712edd952d902f23a583826ebe55e9e322f730f/
 
 ### TDBS Dumper Usage 
 Usage: `python3 tdbs.py <binary_path>`<br>
