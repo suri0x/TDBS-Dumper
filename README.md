@@ -74,7 +74,8 @@ id +[CRConfig unmungeHexString:](id a1, SEL a2, id stringToDecrypt) {
 ```
 I've provided some examples below of how this is actually called within the implants code:
 
-![image](https://github.com/suri0x/Icarus/assets/95584654/ed1a3960-8863-4114-b66b-ff85f553bae5)
+![image](https://github.com/suri0x/TDBS-Dumper/assets/95584654/8da7f1bd-d0e9-4878-90d6-4d71cd7fe644)
+
 
 ![image](https://github.com/suri0x/Icarus/assets/95584654/b14ebc7e-710d-49e9-993a-b4222670a2fc)
 
