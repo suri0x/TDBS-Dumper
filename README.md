@@ -12,7 +12,7 @@ TriangleDB (Operation Triangulation) was an iOS spyware campaign conducted by an
 
 ![image](https://github.com/suri0x/Icarus/assets/95584654/812d880e-bfe1-4e9d-aed3-fd79d0ddea99)
 
-As mentioned above, the TDBS Dumper aids in identifying, dumping, and decrypting protected strings from the TriangleDB iOS spyware implant. TriangleDB's spyware implant utilizes basic HEX-encoded, rolling XOR-encrypted strings, which are employed in certain Objective-C methods and funmctions within the implant. Below is a compiled list of the methods in question.
+As mentioned above, the TDBS Dumper aids in identifying, dumping, and decrypting protected strings from the TriangleDB iOS spyware implant. TriangleDB's spyware implant utilizes basic HEX-encoded, rolling XOR-encrypted strings, which are employed in certain Objective-C methods and functions within the implant. Below is a compiled list of the methods in question.
 
 ```
 -[CRAInfo retrieveIADict] - Utilized in the implant ability to enumerate all applications on the mobile device.
