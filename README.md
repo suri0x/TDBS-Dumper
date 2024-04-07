@@ -10,7 +10,8 @@ Example: `python3 tdbs.py fd9e97cfb55f9cfb5d3e1388f712edd952d902f23a583826ebe55e
 ## Context
 TriangleDB (Operation Triangulation) was an iOS spyware campaign conducted by an unknown APT (at least publicly unknown) that targeted the Russia-based cybersecurity company, Kaspersky. TriangleDB utilized four iOS zero-days for its deployment onto iOS devices. Below is a graphic of the full attack chain provided by Kaspersky. TDBS Dumper specifically focuses on the final stage spyware implant.
 
-![image](https://github.com/suri0x/Icarus/assets/95584654/812d880e-bfe1-4e9d-aed3-fd79d0ddea99)
+![image](https://github.com/suri0x/TDBS-Dumper/assets/95584654/a685082e-1c58-4eab-9956-601f63ccf612)
+
 
 As mentioned above, the TDBS Dumper aids in identifying, dumping, and decrypting protected strings from the TriangleDB iOS spyware implant. TriangleDB's spyware implant utilizes basic HEX-encoded, rolling XOR-encrypted strings, which are employed in certain Objective-C methods and functions within the implant. Below is a compiled list of the methods in question.
 
